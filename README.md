@@ -8,8 +8,16 @@ Blackjack is a widely played casino game. The goal of the player is to attain a 
 2.	Hit/Stand strategy prediction using First visit Monte Carlo
 3.	Optimal policy determination using Constant alpha First Visit
 
-There are two files - 
+There are two jupyter notebooks (.ipynb) - 
 
 1. Blackjack - Gaming interface
 2. Monte Carlo - Studying blackjack outcomes and strategies using reinforcement learning
 
+## Getting started 
+
+To get the project up and running, please follow the below steps - 
+
+1. Clone the repository: 
+```sh 
+git clone https://github.com/ACM40960/project-21200802.git
+  ```
