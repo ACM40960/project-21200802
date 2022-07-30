@@ -1,4 +1,15 @@
-# project-21200802
-project-21200802 created by GitHub Classroom
-Yet to fill 
-Just created the file 
+# BlackJack Simulation through lens of Monte Carlo
+
+## Overview
+
+Blackjack is a widely played casino game. The goal of the player is to attain a sum of dealt cards to be higher than that of a dealer, yet still under 21 with partially known cards. In the present day, the game can also be played on mobile devices, which was made possible through modern mathematics and technology. Blackjack’s major idea is the house having the edge in most of the cases. The discovery of probabilistic nature of the Black Jack by Edward O. Thorp combined with, the ability to model a card game on the computers for large samples based on Monte carlo method, there has been extensive exploration of the game in order to find an optimal solution to beat the house. The study is split into three parts – 
+
+1.	Single experiment of online Blackjack game
+2.	Hit/Stand strategy prediction using First visit Monte Carlo
+3.	Optimal policy determination using Constant alpha First Visit
+
+There are two files - 
+
+1. Blackjack - Gaming interface
+2. Monte Carlo - Studying blackjack outcomes and strategies using reinforcement learning
+
