@@ -23,4 +23,5 @@ git clone https://github.com/ACM40960/project-21200802.git
   ```
 2. Go to link - https://www.anaconda.com/products/distribution#windows and download anaconda based on the operating system. 
 <div align="center">
-  < a href="https://github.com/project-21200802/images/Anaconda.jpg">
+  <img src="images/Anaconda.jpg" width="200" height="200">
+  
