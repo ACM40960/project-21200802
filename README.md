@@ -62,4 +62,8 @@ pip show gym
   <img src="images/gym.jpg">
  </div>
 <br>
-5. 
+5. Run the file cell by cell in order. 
+6. Prediction logic takes about a minute to run. 
+7. Monte carlo prediction can be studied using State-distribution 3D plot with findings mentioned in the jupyter notebook. 
+8. Optimal solution for blackjack takes 5 minutes 30 seconds to run. 
+9. Monte carlo control can be studied using Optimal Blackjack Strategy plot with findings mentioned in the jupyter notebook. 
