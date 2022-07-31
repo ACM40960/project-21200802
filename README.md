@@ -90,7 +90,7 @@ pip show gym
 7. Monte carlo prediction can be studied using State-distribution 3D plot. The peaks are in darker shade as there are higher chances for a player to beat the house. 
 <br> 
 <div align="center">
-  <img src="images/pred.jpg" width="500" height="300">
+  <img src="images/pred.jpg">
  </div> 
 8. Optimal solution for blackjack takes 5 minutes 30 seconds to run. 
 <br>
