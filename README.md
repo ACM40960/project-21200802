@@ -19,7 +19,7 @@ There are two jupyter notebooks (.ipynb) -
 
 ## Getting started 
 
-To get the project up and running, please follow the below steps - 
+To get the project up and running, please follow the below steps -
 
 1. Clone the repository: 
 ```sh 
