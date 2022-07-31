@@ -24,7 +24,6 @@ git clone https://github.com/ACM40960/project-21200802.git
 2. Go to link - https://www.anaconda.com/products/distribution#windows and download anaconda based on the operating system. 
 <div align="center">
   <img src="images/Anaconda.jpg" width="300" height="300">
-
 3. Open the downloaded file and begin installation by clicking next as they appear and finish button. 
 4. Next, open the Anaconda navigator and launch the jupyter notebook 
   <p float="left">
