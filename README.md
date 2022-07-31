@@ -87,8 +87,14 @@ pip show gym
 <br>
 6. Prediction logic takes about a minute to run. 
 <br>
-7. Monte carlo prediction can be studied using State-distribution 3D plot with findings mentioned in the jupyter notebook.
+7. Monte carlo prediction can be studied using State-distribution 3D plot. The peaks are in darker shade as there are higher chances for a player to beat the house. 
 <br> 
+<div align="center">
+  <img src="images/pred.jpg" width="500" height="300">
+ </div> 
 8. Optimal solution for blackjack takes 5 minutes 30 seconds to run. 
 <br>
-9. Monte carlo control can be studied using Optimal Blackjack Strategy plot with findings mentioned in the jupyter notebook. 
+9. Monte carlo control can be studied using Optimal Blackjack Strategy plot. The grey area indicates for those those player scores, hit would be a better strategy. Light shaded area indicate stand. SO, higher the total, better strategy is to stand as chances for players going bust is higher.  
+<div align="center">
+  <img src="images/control.jpg" width="500" height="300">
+ </div>
