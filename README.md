@@ -52,6 +52,15 @@ git clone https://github.com/ACM40960/project-21200802.git
   <img src="images/main.jpg" width="500" height="300">
  </div>
 <br> 
+3. As the game begins, an input box appears.
+<br>
+4. Place the cursor on the text box and keep pressing enter button until there is specific request for input.
+<br>
+5. Once there is a request for input, players can choose to hit or stand. Dealer's moves are automated. 
+<div align="center">
+  <img src="images/Game.gif" width="500" height="300">
+ </div>
+<br> 
  
 ## Monte Carlo.ipynb
 
