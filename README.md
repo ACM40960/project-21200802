@@ -49,7 +49,7 @@ git clone https://github.com/ACM40960/project-21200802.git
 <br>
 2. Once you run the main method, the game begins to play with.
 <div align="center">
-  <img src="images/main.jpg">
+  <img src="images/main.jpg" width="800" height="500">
  </div>
 <br> 
  
