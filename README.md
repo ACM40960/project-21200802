@@ -29,10 +29,12 @@ git clone https://github.com/ACM40960/project-21200802.git
 3. Open the downloaded file and begin installation by clicking next as they appear and finish button.
 <br> 
 4. Next, open the Anaconda navigator and launch the jupyter notebook 
+5. <div align="center">
   <p float="left">
   <img src="images/navigation.jpg" width="300" height="300">
   <img src="images/Anaconda.jpg" width="300" height="300">
   </p>
+  </div>
   <br>
 5. Navigate to the folder where the files were downloaded and open both .ipynb extension files - Blackjack and Monte Carlo 
 6. Run Blackjack file for playing the game and Monte carlo for simulations. 
