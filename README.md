@@ -61,6 +61,7 @@ git clone https://github.com/ACM40960/project-21200802.git
   <img src="images/Game.gif" width="500" height="300">
  </div>
 <br> 
+6. As soon as the player or the dealer wins, game is over. 
  
 ## Monte Carlo.ipynb
 
