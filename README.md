@@ -25,3 +25,9 @@ git clone https://github.com/ACM40960/project-21200802.git
 <div align="center">
   <img src="images/Anaconda.jpg" width="200" height="200">
   
+  3. Open the downloaded file and begin installation by clicking next as they appear and finish button. 
+  4. Next, open the Anaconda navigator and launch the jupyter notebook 
+    :-------------------------:|:-------------------------:
+![]<img src="images/navigation.jpg" width="200" height="200">  |  ![]<img src="images/navigation.jpg" width="200" height="200">
+  
+  
