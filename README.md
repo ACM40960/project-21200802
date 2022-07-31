@@ -48,7 +48,7 @@ git clone https://github.com/ACM40960/project-21200802.git
 1. Once you open the file, run the file cell by cell in order.
 <br>
 2. Once you run the main method, the game begins to play with.
-<div align="center">
+<br> <div align="center">
   <img src="images/main.jpg" width="500" height="300">
  </div>
 <br> 
