@@ -41,10 +41,17 @@ git clone https://github.com/ACM40960/project-21200802.git
   </div>
   <br>
 5. Navigate to the folder where the files were downloaded and open both .ipynb extension files - Blackjack and Monte Carlo 
+<br>
 6. Run Blackjack file for playing the game and Monte carlo for simulations. 
 
 ## Blackjack Game.ipynb
-1. 
+1. Once you open the file, run the file cell by cell in order.
+<br>
+2. Once you run the main method, the game begins to play with.
+<div align="center">
+  <img src="images/main.jpg">
+ </div>
+<br> 
  
 ## Monte Carlo.ipynb
 
