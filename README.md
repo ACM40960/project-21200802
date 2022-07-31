@@ -54,12 +54,12 @@ pip show gym
   ```
 3. Inside the Monte carlo jupyter notebook change the path accordingly.
 <div align="center">
-  <img src="images/path.jpg" width="300" height="300">
+  <img src="images/path.jpg">
  </div>
 <br> 
 4. If 'Blackjack-v1' throws error in gym.make() method, then change it as 'Blackjack-v0'.
 <div align="center">
-  <img src="images/gym.jpg" width="300" height="300">
+  <img src="images/gym.jpg">
  </div>
 <br>
 5. 
