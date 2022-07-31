@@ -34,6 +34,10 @@ git clone https://github.com/ACM40960/project-21200802.git
   <img src="images/Anaconda.jpg" width="300" height="300">
   </p>
   <br>
-5. 
+5. Navigate to the folder where the files were downloaded and open both .ipynb extension files - Blackjack and Monte Carlo 
+6. Run Blackjack file for playing the game and Monte carlo for simulations. 
+
+## Blackjack Game
+1. 
   
   
