@@ -1,6 +1,6 @@
 # BlackJack Simulation through lens of Monte Carlo
 <div align="center">
-  <img src="images/how-do-you-play-blackjack.jpg" width="300" height="300">
+  <img src="images/how-do-you-play-blackjack.jpg">
  </div>
  <br>
 ## Overview
