@@ -39,7 +39,17 @@ git clone https://github.com/ACM40960/project-21200802.git
 5. Navigate to the folder where the files were downloaded and open both .ipynb extension files - Blackjack and Monte Carlo 
 6. Run Blackjack file for playing the game and Monte carlo for simulations. 
 
-## Blackjack Game
+## Blackjack Game.ipynb
 1. 
-  
-  
+ 
+## Monte Carlo.ipynb
+
+1. Open anaconda3 terminal and install gym package: 
+```sh 
+pip install gym
+  ```
+2. Locate the gym package installation: 
+```sh 
+pip show gym
+  ```
+3. Inside the Monte carlo jupyter notebook change the path accordingly. 
